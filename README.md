@@ -35,7 +35,7 @@ This tool generates model classes/structs from JSON data and JSON Schema for mul
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/json-to-model-generator.git
+   git clone https://github.com/romero927/CPP_JSON-to-Model-Generator
    cd json-to-model-generator
    ```
 
